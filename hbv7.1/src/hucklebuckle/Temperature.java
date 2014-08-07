@@ -2,18 +2,18 @@ package hucklebuckle;
 
 enum Temperature {
 
-  HUCKLEBUCKLEBEANSTALK,
-	
-  BOILING,
+	HUCKLEBUCKLEBEANSTALK,
 
-  HOT,
+	BOILING,
 
-  WARM,
+	HOT,
 
-  COOL,
+	WARM,
 
-  COLD,
+	COOL,
 
-  FREEZING
+	COLD,
+
+	FREEZING
 
 }
